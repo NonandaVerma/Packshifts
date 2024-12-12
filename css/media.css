@@ -1,0 +1,105 @@
+@media only screen and (min-width:200px) and (max-width:575px)
+{
+.number{ display:none;}
+
+.logo{ margin:auto;}
+
+.banner{ height:950px;
+             background-repeat: no-repeat;}
+
+.bannerIn{ width:100%;
+        margin-top:0px;
+               flex-direction:column;}
+
+.bannerR{ width:95%;
+              transform:scale(0.9);
+              text-align: center;
+              margin:auto;}
+
+.bannerR h1{ font-family:18px;
+                 padding:0px;
+               }  
+
+.bannerR>h1>span{ font-size:22px;}           
+               
+.bannerR h2{ font-size:18px;
+             padding:10px 0px;
+            } 
+                 
+.bannerR p{ font-size:15px;
+             padding: 0px;}    
+                
+.bannerR .imgRow{ width:60%;
+                   transform:scale(0.8);
+                   margin:auto;
+                 }  
+                 
+.bannerL{ width:95%;
+           margin-top:-12px;}   
+           
+    
+.input2{ width:80%; } 
+
+.input3{ width:80%;
+          height:70px;
+          line-height: 75px;
+          margin:10px 30px;   
+       } 
+
+.input3::placeholder { font-size:40px;
+                        filter:blur(1px);
+                     }     
+
+.container{ width: 95%;}       
+
+.svContainer{ width:95%;}
+
+.wsContainer{ width:45%;}
+
+.displayNone{ display: none;}
+
+.achBox{ width:45%}
+
+.clientBox{ width:45%;
+            margin:auto;}
+
+.branchInner{ flex-direction: column;}      
+
+.branchBox{ width:95%;
+             margin:2%;}
+
+.customerInner h2{ font-size:22px;}   
+
+.rev{ width:95%;
+      height:350px;}
+
+.yellow{  width:30%;
+           height:40%;
+          top:16px;
+          left:181px;}
+
+.yInn{ margin:10px auto;}
+
+.yInn img{ position:relative;
+             top:0px;
+              left:0px;}
+
+.rev img{  top:141px;
+           left:65px;}
+
+             
+.packersInner{ flex-direction: column;}
+
+.packersInner h2{ font-size:20px;}
+
+.packBox{ width:95%;
+         text-align: center;
+         padding-top:20px;
+          margin:auto;}
+
+.footerInn p{ padding-bottom:35px;}
+
+.chat{ visibility: visible;}          
+
+
+}
